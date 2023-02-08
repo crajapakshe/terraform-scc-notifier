@@ -1,0 +1,3 @@
+requests
+google-cloud-secret-manager
+google-cloud-logging
